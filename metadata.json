@@ -1,0 +1,6 @@
+{
+  "name": "Petualangan Trigonometri SMA",
+  "description": "Aplikasi latihan interaktif trigonometri matematika SMA untuk SMAS Tunas Baru Jin Seung Batam lengkap dengan 20 soal pilihan ganda, visualisasi grafik SVG akurat, pembahasan mendalam, dan narator suara TTS Bahasa Indonesia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
